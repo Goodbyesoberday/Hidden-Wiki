@@ -1,7 +1,7 @@
 # Hidden-Wiki
 Embark on a journey through the secretive corridors of the 🕵️‍♂️ Hidden Wiki, where mysteries and hidden gems await discovery. Unravel cryptic links and unlock a realm of obscure knowledge. #HiddenWiki 🔍
 
-<img src="https://github.com/Deep-Web-Links-2024/deepweb-links/blob/main/logo.jpg">
+<img src="https://github.com/Deep-Web-Links-2024/Hidden-Wiki/blob/main/Hidden-Wiki.png">
 
 # Welcome to Deep Web Links 2024
 

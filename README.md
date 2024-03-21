@@ -3,7 +3,7 @@ Embark on a journey through the secretive corridors of the 🕵️‍♂️ Hidd
 
 <img src="https://github.com/Deep-Web-Links-2024/Hidden-Wiki/blob/main/Hidden-Wiki.png">
 
-# Welcome to Deep Web Links 2024
+# Welcome to Hidden Wiki Dark Sites 2024
 
 > Explore the shadows with our handpicked collection of verified .onion links showcasing diverse Onion Services across the darkworld's labyrinthine landscape.
 
@@ -12,7 +12,7 @@ Embark on a journey through the secretive corridors of the 🕵️‍♂️ Hidd
 
 
 
-# Deep Web Links or Onion links (March 2024) for Improved Browsing
+# Hidden Wiki Dark Sites or Deep Web Links or Onion links 2024
 
 Your Hub for TOR Expertise : Deep Web Links, TOR links, Directory, TOR Onion Links and Guides
 
@@ -20,7 +20,8 @@ Your Hub for TOR Expertise : Deep Web Links, TOR links, Directory, TOR Onion Lin
 
 
 
-## Tor Boosts Site Privacy (Deep Web Links - the Hidden Wiki, dark web, onion links)
+## Hidden Wiki Dark Sites Privacy 
+### (Hidden Wiki - deep web links, the Hidden Wiki, dark web, onion links)
 
 | Site | TOR URLs | Description |
 | --- | --- | --- |

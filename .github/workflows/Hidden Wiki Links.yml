@@ -1,0 +1,26 @@
+name: Hidden Wiki Links 2024
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Runs every minute
+
+jobs:
+  Hidden-Wiki-Links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Delete Hidden-Wiki-Links.txt
+        run: |
+          rm -f Hidden-Wiki-Links.txt
+          ls -l  # For debugging purposes, list files in the directory to check if Hidden-Wiki-Links.txt is deleted
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "thehiddenwiki2024@proton.me"
+          git config --global user.name "The-Hidden-Wiki-URLs"
+          git add -A  # Add all changes, including the deletion of Hidden-Wiki-Links.txt
+          git commit -m "Hidden-Wiki-Links.txt" || echo "No changes to commit"
+          git push

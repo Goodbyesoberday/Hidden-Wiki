@@ -18,8 +18,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --global user.email "thehiddenwiki2024@proton.me"
-          git config --global user.name "The-Hidden-Wiki-URLs"
+          git config --global user.email "sendaernovikendark@hotmail.com"
+          git config --global user.name "Deep-Web-Links-2024"
           git add Hidden-Wiki-Links.txt
           git commit -m "Hidden-Wiki-Links.txt" || echo "No changes to commit"
           git push

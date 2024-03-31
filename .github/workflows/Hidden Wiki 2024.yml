@@ -1,0 +1,25 @@
+name: Hidden Wiki Links 2024
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Runs every minute
+
+jobs:
+  Hidden-Wiki-Links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Update Hidden-Wiki-Links.txt
+        run: |
+              echo "$(date -u +'%Y-%m-%d %H:%M:%S') UTC - Update" >> Hidden-Wiki-Links.txt
+          
+      - name: Commit changes
+        run: |
+          git config --global user.email "thehiddenwiki2024@proton.me"
+          git config --global user.name "The-Hidden-Wiki-URLs"
+          git add Hidden-Wiki-Links.txt
+          git commit -m "Hidden-Wiki-Links.txt" || echo "No changes to commit"
+          git push
